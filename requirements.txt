@@ -1,0 +1,4 @@
+# Flexible versions (will work with most recent versions)
+pygame
+PyOpenGL
+PyOpenGL-accelerate
